@@ -1,0 +1,5 @@
+[build]
+  command = "php -S 0.0.0.0:8888 -t public"
+  functions = "functions"
+  port = 8888
+
